@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux'
-import { connectRouter } from 'connected-react-router'
+import { connectRouter } from '@vs-centaurea/connected-react-router'
 import counterReducer from './counter'
 
 const rootReducer = (history) => combineReducers({

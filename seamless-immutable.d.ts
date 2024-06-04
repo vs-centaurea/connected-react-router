@@ -1,6 +1,6 @@
 /// <reference path="index.d.ts"/>
 
-declare module 'connected-react-router/seamless-immutable' {
+declare module '@vs-centaurea/connected-react-router/seamless-immutable' {
 
-    export * from 'connected-react-router';
+    export * from '@vs-centaurea/connected-react-router';
 }
