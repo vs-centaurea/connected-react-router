@@ -84,7 +84,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supasate/connected-react-router.git"
+    "url": "git+https://github.com/vs-centaurea/connected-react-router.git"
   },
   "bugs": {
     "url": "https://github.com/supasate/connected-react-router/issues"
