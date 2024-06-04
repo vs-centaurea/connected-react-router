@@ -2184,7 +2184,7 @@ concat-stream@^1.5.0:
     typedarray "^0.0.6"
 
 "connected-react-router@file:":
-  version "6.9.3"
+  version "6.9.4"
   resolved "file:"
   dependencies:
     connected-react-router "file:"
