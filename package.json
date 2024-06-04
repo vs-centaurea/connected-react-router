@@ -1,5 +1,5 @@
 {
-  "name": "connected-react-router",
+  "name": "@vs-centaurea/connected-react-router",
   "version": "6.9.3",
   "description": "A Redux binding for React Router v4 and v5",
   "main": "lib/index.js",
@@ -88,5 +88,11 @@
   },
   "bugs": {
     "url": "https://github.com/supasate/connected-react-router/issues"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "homepage": "https://github.com/vs-centaurea/connected-react-router#readme"
 }
